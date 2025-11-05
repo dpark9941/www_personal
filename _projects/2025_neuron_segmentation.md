@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Detecting Network Effects
-subtitle: "Randomizing Over Randomized Experiments"
+title: AAV-labeled Neuron Segementation using Local Shape Descriptor
+subtitle: "How can 3D U-net recognize complex neuron shapes with different color labels?"
 ---
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
